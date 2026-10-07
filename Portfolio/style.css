@@ -1,0 +1,32 @@
+html
+.red-text{
+    color: red
+}
+body{
+    margin:0;
+    padding:0;
+}
+.headerbox{ 
+    background-color: greenyellow;
+    margin:0;
+    padding: 20px;
+    text-align: center;
+        }
+.blue-text{
+    color: blue 
+}
+.bordered-box{ 
+    background-color: rgb(137, 242, 244);
+    border: navy solid 5px ;
+    text-align: left;
+    padding: 10px;
+    border-radius: 10px;
+        }
+.filler{
+    background-color: rgb(137, 242, 244);
+}
+.around{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding:2px;
+}
